@@ -121,7 +121,7 @@ Before starting the project, ensure you have:
 
 This project provides a **comprehensive, enterprise-ready DevSecOps pipeline** using **GitHub Actions**, **ArgoCD**, and **Azure Kubernetes Service (AKS)** with integrations for **security testing**, **artifact management**, and **secure deployment practices**. By combining industry-standard tools and following **DevSecOps best practices**, this pipeline ensures continuous integration and delivery with **built-in security** at every stage.
 
-This project highlights your ability to build **secure**, **automated**, and **scalable solutions**, making it ideal for **enterprises migrating to GitHub Actions**, **Kubernetes**, and **cloud-native technologies**. 
+This project highlights the ability to build **secure**, **automated**, and **scalable solutions**, making it ideal for **enterprises migrating to GitHub Actions**, **Kubernetes**, and **cloud-native technologies**. 
 
 ---
 
@@ -138,5 +138,3 @@ For any questions, feedback, or suggestions, feel free to reach out to me via [e
 ### **License**: MIT License - See [LICENSE](LICENSE) for details.
 
 ---
-
-This enhanced version demonstrates your skills with a **cutting-edge**, **enterprise-grade DevSecOps pipeline** that uses **GitHub Actions**, **ArgoCD**, **AKS**, and **ACR**, making it a perfect showcase for **job recruiters** looking for modern **DevSecOps** and **GitOps** experience.
