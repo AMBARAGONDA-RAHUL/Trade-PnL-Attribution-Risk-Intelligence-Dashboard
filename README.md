@@ -1,4 +1,4 @@
-Project Title: Enterprise DevSecOps CI/CD Pipeline using GitHub Actions and ArgoCD
+**Project Title: Enterprise DevSecOps CI/CD Pipeline using GitHub Actions and ArgoCD**
 
 Overview
 
