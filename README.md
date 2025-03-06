@@ -21,13 +21,9 @@ This project demonstrates a robust, enterprise-level **DevSecOps CI/CD pipeline*
 
 ## 🛠️ Tools & Technologies
 
-- **CI/CD**: 
-  - **GitHub Actions** ⚙️
-  - **Jenkins** 🧰
-- **GitOps**: **ArgoCD** 🔄
-- **Build Automation**: 
-  - **Gradle** 🏗️
-  - **Maven** ⚙️
+- **CI/CD**:  - **GitHub Actions** ⚙️
+ - **GitOps**: **ArgoCD** 🔄
+- **Build Automation**: - **Maven** ⚙️
 - **Security Tools**: 
   - **SonarQube** (SAST) 🧪
   - **OWASP ZAP** (DAST) 🔒
