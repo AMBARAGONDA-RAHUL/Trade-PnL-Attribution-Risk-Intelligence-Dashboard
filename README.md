@@ -1,9 +1,4 @@
 
-
-Here’s an enhanced version of your **README**, now including additional tools such as **JFrog Artifactory**, **Azure Kubernetes Service (AKS)**, and **Azure Container Registry (ACR)** to make it even more enterprise-grade and comprehensive. This version emphasizes **GitHub Actions** for CI/CD, **ArgoCD** for GitOps, and integrates additional **security** and **artifact management** tools for an even more powerful DevSecOps pipeline.
-
----
-
 # 🌟 **Enterprise DevSecOps CI/CD Pipeline with GitHub Actions, ArgoCD, AKS, and ACR** 🚀
 
 ## 📋 **Project Overview**
