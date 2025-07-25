@@ -164,17 +164,4 @@ LinkedIn: [linkedin.com/in/rahul-ambaragonda](https://linkedin.com/in/rahul-amba
 
 *Built with passion for bridging finance and data analytics.*
 
-```
-
----
-
-Would you like me to generate:
-
-- a **detailed `requirements.txt`** file?  
-- A **sample Airflow DAG snippet**?  
-- Power BI dashboard design tips?  
-
-Let me know!
-```
-
 
