@@ -1,7 +1,7 @@
 
 # Trade PnL Attribution & Risk Intelligence Dashboard
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-green)](https://powerbi.microsoft.com/)  [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)  
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-green)(https://powerbi.microsoft.com/)  [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)  
 [![Apache Airflow](https://img.shields.io/badge/Apache-Airflow-blue)](https://airflow.apache.org/)  [![dbt](https://img.shields.io/badge/dbt-Data%20Transformation-lightgrey)](https://www.getdbt.com/)
 
 ---
