@@ -154,14 +154,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📞 Contact
-
-Rahul Ambaragonda
-Email: [rahulambaragonda0@gmail.com](mailto:rahulambaragonda0@gmail.com)
-LinkedIn: [linkedin.com/in/rahul-ambaragonda](https://linkedin.com/in/rahul-ambaragonda)
-
----
-
-*Built with passion for bridging finance and data analytics.*
-
-
