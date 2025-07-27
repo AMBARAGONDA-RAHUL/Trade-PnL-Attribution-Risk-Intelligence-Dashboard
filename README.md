@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ## 🚀 Project Overview
 
 Trade PnL Attribution & Risk Intelligence Dashboard is a professional-grade solution designed to simulate real-world hedge fund and banking workflows by breaking down trade gains and losses across multiple dimensions—trader, instrument, strategy, and asset class.  
