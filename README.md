@@ -17,6 +17,10 @@ It provides actionable portfolio-level insights by integrating multi-asset trade
 
 ---
 
+![Image](https://github.com/user-attachments/assets/b9eb8d07-1a06-4fb4-9681-c55eb9d1cef4)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Data Engineering & Orchestration:** Apache Airflow, dbt, Python (Pandas, SQLAlchemy)  
